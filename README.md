@@ -72,8 +72,6 @@ I enjoy building scalable applications, exploring system design concepts, and so
   * Binary Search
   * Greedy Algorithms
 
-I regularly practice problem-solving to improve algorithmic thinking and interview readiness.
-
 ---
 
 ## 🎯 Current Focus
@@ -83,22 +81,6 @@ I regularly practice problem-solving to improve algorithmic thinking and intervi
 * System Design Fundamentals
 * Distributed Systems Concepts
 * Scalable Application Architecture
-
----
-
-## 📫 Connect With Me
-
-### LinkedIn
-
-https://www.linkedin.com/in/mohammad-saum-47a3942a0/
-
-### LeetCode
-
-https://leetcode.com/u/MohammadSaum/
-
-### Email
-
-mohdsaum14@gmail.com
 
 ---
 
