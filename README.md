@@ -1,27 +1,32 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohammad Saum
-======================================================================================================================================
+### Mohammad Saum
+**Full-Stack Developer | CS Undergrad, BBDITM '27**
 
-Software Developer
-------------------
+I build full-stack applications end-to-end — React on the frontend, Spring Boot
+or Node.js/Express on the backend. Comfortable across the stack, with growing
+depth in backend engineering, security, and system design.
 
-I'm a Computer Science undergraduate at BBDITM (2027) with a strong interest in Full-Stack Development, Backend Engineering, and Data Structures & Algorithms.
-
-I enjoy building scalable applications, exploring system design concepts, and solving algorithmic problems to strengthen my problem-solving skills.
-
-* 🌍  I'm based in Lucknow, India
-* ✉️  You can contact me at [mohdsaum14@gmail.com](mailto:mohdsaum14@gmail.com)
-* 🧠  I'm currently learning Java backend development
-
-<p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg" alt="Spring Boot" title="Spring Boot" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-</p>
+📍 Lucknow, India&nbsp;&nbsp;·&nbsp;&nbsp;✉️ mohdsaum14@gmail.com&nbsp;&nbsp;·&nbsp;&nbsp;[LinkedIn](https://linkedin.com/in/mohammad-saum-47a3942a0)&nbsp;&nbsp;·&nbsp;&nbsp;[LeetCode](https://leetcode.com/u/MohammadSaum/)
 
 ---
 
-## 💡 Quote
+**Tech Stack**
 
-> Consistency compounds. Small improvements every day eventually become significant results.
+`Java` `JavaScript` `Python` `SQL` `C` `React` `Spring Boot` `Spring Security` `Node.js` `Express.js` `MySQL` `MongoDB` `JPA/Hibernate`
+
+🧩 **DSA:** 270+ problems solved on [LeetCode](https://leetcode.com/u/MohammadSaum/)
 
 ---
 
-⭐ If you find any of my projects interesting, feel free to explore the repositories and connect with me.
+**Selected Projects**
+
+- **[prepForge](https://github.com/MohammadSaum/prepForge)** — Coding interview prep platform with 17+ REST endpoints across 5 modules (Auth, Questions, Progress, Notes, Dashboard). Built with Spring Boot, Spring Security, and JPA/MySQL; features JWT auth, role-based access control, and BCrypt password hashing.
+
+- **[java-l7-load-balancer](https://github.com/MohammadSaum/java-l7-load-balancer)** — Multi-threaded Layer 7 load balancer built from scratch in Java using sockets and thread pooling. Implements round-robin routing, active health checks, and reverse-proxy failover.
+
+- **[popcorn-plus](https://github.com/MohammadSaum/popcorn-plus)** — Full-stack MERN movie-streaming app with JWT auth, RESTful APIs (Node.js/Express), and TMDB integration. Deployed via Vercel (client) and Render (server). [Live demo](#)
+
+*More projects pinned below ↓*
+
+---
+
+**GitHub Activity:** 10+ month active contribution streak · 450+ commits across full-stack and systems projects
