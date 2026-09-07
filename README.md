@@ -13,7 +13,7 @@ depth in backend engineering, security, and system design.
 
 `Java` `JavaScript` `Python` `SQL` `C` `React` `Spring Boot` `Spring Security` `Node.js` `Express.js` `MySQL` `MongoDB` `JPA/Hibernate`
 
-🧩 **DSA:** 270+ problems solved on [LeetCode](https://leetcode.com/u/MohammadSaum/)
+🧩 **DSA:** 280+ problems solved on [LeetCode](https://leetcode.com/u/MohammadSaum/)
 
 ---
 
@@ -23,7 +23,7 @@ depth in backend engineering, security, and system design.
 
 - **[java-l7-load-balancer](https://github.com/MohammadSaum/java-l7-load-balancer)** — Multi-threaded Layer 7 load balancer built from scratch in Java using sockets and thread pooling. Implements round-robin routing, active health checks, and reverse-proxy failover.
 
-- **[popcorn-plus](https://github.com/MohammadSaum/popcorn-plus)** — Full-stack MERN movie-streaming app with JWT auth, RESTful APIs (Node.js/Express), and TMDB integration. Deployed via Vercel (client) and Render (server). [Live demo](#)
+- **[popcorn-plus](https://github.com/MohammadSaum/popcorn-plus)** — Full-stack MERN movie-streaming app with JWT auth, RESTful APIs (Node.js/Express), and TMDB integration. Deployed via Vercel (client) and Render (server). [Live demo](https://watch-popcorn.vercel.app/)
 
 *More projects pinned below ↓*
 
