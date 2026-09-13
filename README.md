@@ -19,7 +19,7 @@ depth in backend engineering, security, and system design.
 
 **Selected Projects**
 
-- **[prepForge](https://github.com/MohammadSaum/prepForge)** — Coding interview prep platform with 17+ REST endpoints across 5 modules (Auth, Questions, Progress, Notes, Dashboard). Built with Spring Boot, Spring Security, and JPA/MySQL; features JWT auth, role-based access control, and BCrypt password hashing.
+- **[O-No](https://github.com/MohammadSaum/O-No)** — DSA interview-prep tracker with 17+ REST endpoints across 5 modules (Auth, Questions, Progress, Notes, Dashboard). Built with Spring Boot, Spring Security, and JPA/MySQL; features JWT auth, per-user data isolation, and BCrypt hashing — load-tested to 637 req/s at 169ms p95 latency. [Live demo](https://o-no-jse1.onrender.com/)
 
 - **[java-l7-load-balancer](https://github.com/MohammadSaum/java-l7-load-balancer)** — Multi-threaded Layer 7 load balancer built from scratch in Java using sockets and thread pooling. Implements round-robin routing, active health checks, and reverse-proxy failover.
 
